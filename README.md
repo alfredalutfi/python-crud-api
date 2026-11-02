@@ -37,3 +37,5 @@ Checkout → Syntax check → Unit test → Build image (tag `BUILD_NUMBER`, `sh
 → Deploy (named volume tetap) → Health check (curl + Docker HEALTHCHECK).
 
 Image Jenkins lab ada di `jenkins/Dockerfile` (Jenkins LTS + python3 + Docker CLI).
+
+Webhook test Mon Nov  2 18:59:07 WIB 2026
