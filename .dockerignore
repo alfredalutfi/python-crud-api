@@ -1,0 +1,9 @@
+.git
+.gitignore
+README.md
+Jenkinsfile
+jenkins/
+test_app.py
+__pycache__
+*.pyc
+.env
